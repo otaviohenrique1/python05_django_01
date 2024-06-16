@@ -35,3 +35,10 @@ Projeto do curso "Django: templates e boas práticas" da Alura
 - python manage.py help
 - python manage.py startapp galeria
 - python manage.py collectstatic
+
+### Comandos para inicializar o projeto
+
+1. python -m virtualenv .venv
+2. pip install -r requirements.txt
+3. source venv/scripts/activate
+4. python manage.py runserver
